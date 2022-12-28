@@ -41,7 +41,7 @@ export const data = [
                         ]
                     },
                     {
-                        "schedule": ["breach", "thieves", "ultra", "legion"]
+                        "schedule": ["faze", "surge", "subliners", "guerillas"]
                     },
                     {
                         "record": [0, 0]
