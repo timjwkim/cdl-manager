@@ -13,7 +13,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div className="App">
-        This is our app lol
+        This is a test change
       </div>
     </>
   )
