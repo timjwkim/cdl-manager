@@ -16,10 +16,10 @@ export const data = [
                 "team": [
                     {
                         "players": [
-                            {"name": "slasher", "overall": 99},
-                            {"name": "cellium", "overall": 98},
-                            {"name": "simp", "overall": 93},
-                            {"name": "abezy", "overall": 92},
+                            {"name": "slasher", "overall": 73},
+                            {"name": "cellium", "overall": 90},
+                            {"name": "simp", "overall": 82},
+                            {"name": "abezy", "overall": 85},
                         ]
                     },
                     {
@@ -35,10 +35,10 @@ export const data = [
                 "team": [
                     {
                         "players": [
-                            {"name": "methodz", "overall": 99},
-                            {"name": "owakening", "overall": 98},
-                            {"name": "nero", "overall": 93},
-                            {"name": "vivid", "overall": 92},
+                            {"name": "methodz", "overall": 84},
+                            {"name": "owakening", "overall": 83},
+                            {"name": "nero", "overall": 77},
+                            {"name": "vivid", "overall": 82},
                         ]
                     },
                     {
@@ -54,14 +54,14 @@ export const data = [
                 "team": [
                     {
                         "players": [
-                            {"name": "majormaniak", "overall": 99},
-                            {"name": "brack", "overall": 98},
-                            {"name": "havok", "overall": 93},
-                            {"name": "vikul", "overall": 92},
+                            {"name": "majormaniak", "overall": 68},
+                            {"name": "brack", "overall": 84},
+                            {"name": "havok", "overall": 71},
+                            {"name": "vikul", "overall": 71},
                         ]
                     },
                     {
-                        "schedule": ["faze", "surge", "subliners", "guerillas"]
+                        "schedule": ["legion", "optic", "rokkr", "thieves"]
                     },
                     {
                         "record": [0, 0]
@@ -73,10 +73,10 @@ export const data = [
                 "team": [
                     {
                         "players": [
-                            {"name": "zer0", "overall": 99},
-                            {"name": "paulehx", "overall": 98},
-                            {"name": "asim", "overall": 93},
-                            {"name": "nastie", "overall": 92},
+                            {"name": "zer0", "overall": 80},
+                            {"name": "paulehx", "overall": 81},
+                            {"name": "asim", "overall": 91},
+                            {"name": "nastie", "overall": 79},
                         ]
                     },
                     {
@@ -92,14 +92,14 @@ export const data = [
                 "team": [
                     {
                         "players": [
-                            {"name": "arcitys", "overall": 99},
-                            {"name": "spart", "overall": 98},
-                            {"name": "huke", "overall": 93},
-                            {"name": "neptune", "overall": 92},
+                            {"name": "arcitys", "overall": 82},
+                            {"name": "spart", "overall": 66},
+                            {"name": "huke", "overall": 69},
+                            {"name": "neptune", "overall": 65},
                         ]
                     },
                     {
-                        "schedule": ["breach", "thieves", "ultra", "legion"]
+                        "schedule": ["surge", "ravens", "subliners", "breach"]
                     },
                     {
                         "record": [0, 0]
@@ -111,10 +111,10 @@ export const data = [
                 "team": [
                     {
                         "players": [
-                            {"name": "octane", "overall": 99},
-                            {"name": "drazah", "overall": 98},
-                            {"name": "kenny", "overall": 93},
-                            {"name": "envoy", "overall": 92},
+                            {"name": "octane", "overall": 72},
+                            {"name": "drazah", "overall": 90},
+                            {"name": "kenny", "overall": 68},
+                            {"name": "envoy", "overall": 89},
                         ]
                     },
                     {
@@ -130,14 +130,14 @@ export const data = [
                 "team": [
                     {
                         "players": [
-                            {"name": "attach", "overall": 99},
-                            {"name": "cammy", "overall": 98},
-                            {"name": "afro", "overall": 93},
-                            {"name": "bance", "overall": 92},
+                            {"name": "attach", "overall": 83},
+                            {"name": "cammy", "overall": 74},
+                            {"name": "afro", "overall": 91},
+                            {"name": "bance", "overall": 77},
                         ]
                     },
                     {
-                        "schedule": ["breach", "thieves", "ultra", "legion"]
+                        "schedule": ["legion", "faze", "mutineers", "optic"]
                     },
                     {
                         "record": [0, 0]
@@ -149,14 +149,14 @@ export const data = [
                 "team": [
                     {
                         "players": [
-                            {"name": "skyz", "overall": 99},
-                            {"name": "priestahh", "overall": 98},
+                            {"name": "skyz", "overall": 91},
+                            {"name": "priestahh", "overall": 89},
                             {"name": "hydra", "overall": 93},
-                            {"name": "kismet", "overall": 92},
+                            {"name": "kismet", "overall": 99},
                         ]
                     },
                     {
-                        "schedule": ["breach", "thieves", "ultra", "legion"]
+                        "schedule": ["ravens", "ultra", "guerillas", "breach"]
                     },
                     {
                         "record": [0, 0]
@@ -168,14 +168,14 @@ export const data = [
                 "team": [
                     {
                         "players": [
-                            {"name": "dashy", "overall": 99},
-                            {"name": "illey", "overall": 98},
-                            {"name": "scump", "overall": 93},
-                            {"name": "shotzzy", "overall": 92},
+                            {"name": "dashy", "overall": 80},
+                            {"name": "illey", "overall": 74},
+                            {"name": "scump", "overall": 87},
+                            {"name": "shotzzy", "overall": 80},
                         ]
                     },
                     {
-                        "schedule": ["breach", "thieves", "ultra", "legion"]
+                        "schedule": ["rokkr", "mutineers", "ravens", "thieves"]
                     },
                     {
                         "record": [0, 0]
@@ -187,14 +187,14 @@ export const data = [
                 "team": [
                     {
                         "players": [
-                            {"name": "accuracy", "overall": 99},
-                            {"name": "sib", "overall": 98},
+                            {"name": "accuracy", "overall": 69},
+                            {"name": "sib", "overall": 91},
                             {"name": "pred", "overall": 93},
-                            {"name": "mack", "overall": 92},
+                            {"name": "mack", "overall": 72},
                         ]
                     },
                     {
-                        "schedule": ["breach", "thieves", "ultra", "legion"]
+                        "schedule": ["guerillas", "breach", "ravens", "ultra"]
                     },
                     {
                         "record": [0, 0]
@@ -206,14 +206,14 @@ export const data = [
                 "team": [
                     {
                         "players": [
-                            {"name": "insight", "overall": 99},
-                            {"name": "scrappy", "overall": 98},
-                            {"name": "cleanx", "overall": 93},
-                            {"name": "standy", "overall": 92},
+                            {"name": "insight", "overall": 92},
+                            {"name": "scrappy", "overall": 96},
+                            {"name": "cleanx", "overall": 83},
+                            {"name": "standy", "overall": 85},
                         ]
                     },
                     {
-                        "schedule": ["breach", "thieves", "ultra", "legion"]
+                        "schedule": ["rokkr", "subliners", "faze", "surge"]
                     },
                     {
                         "record": [0, 0]
@@ -225,14 +225,14 @@ export const data = [
                 "team": [
                     {
                         "players": [
-                            {"name": "clayster", "overall": 99},
-                            {"name": "temp", "overall": 98},
-                            {"name": "tjhaly", "overall": 93},
-                            {"name": "prolute", "overall": 92},
+                            {"name": "clayster", "overall": 79},
+                            {"name": "temp", "overall": 85},
+                            {"name": "tjhaly", "overall": 72},
+                            {"name": "prolute", "overall": 73},
                         ]
                     },
                     {
-                        "schedule": ["breach", "thieves", "ultra", "legion"]
+                        "schedule": ["thieves", "mutineers", "faze", "rokkr"]
                     },
                     {
                         "record": [0, 0]
@@ -241,8 +241,15 @@ export const data = [
                 "teamName": "legion"
             },
         ],
-        "schedule": [],
-        "matchweek": 0,
+        "schedule": [
+            [["breach", "faze"], ["optic", "rokkr"], ["legion", "thieves"], ["guerillas", "surge"]],
+            [["rokkr", "ultra"], ["subliners", "ravens"], ["surge", "breach"], ["mutineers", "legion"]],
+            [["guerillas", "ravens"], ["optic", "mutineers"], ["thieves", "faze"], ["ultra", "subliners"]],
+            [["surge", "ravens"], ["mutineers", "rokkr"], ["subliners", "guerillas"], ["ultra", "faze"]],
+            [["faze", "legion"], ["optic", "ravens"], ["subliners", "breach"], ["mutineers", "thieves"]],
+            [["rokkr", "legion"], ["surge", "ultra"], ["thieves", "optic"], ["breach", "guerillas"]],
+        ],
+        "matchday": 0,
         "currentTeam": "optic",
     }
 ]
