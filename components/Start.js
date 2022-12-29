@@ -1,4 +1,5 @@
 import React from 'react'
+import Link from 'next/link'
 
 const Start = () => {
 
@@ -39,6 +40,7 @@ const Start = () => {
                 <button type="submit">Load Game</button>
             </form>
             {file}
+            <Link href="/play">Play</Link>
         </div>
     )
 }
