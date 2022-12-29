@@ -1,4 +1,4 @@
-import { data } from '../../../data/data.js'
+import { data } from '../../../../data/data.js'
 
 export default async (req, res) => {
     const teamName = req.query.teamName;
@@ -6,7 +6,7 @@ export default async (req, res) => {
     const result = teams.filter((team) => team.teamName === teamName);
     
     if (result.length > 0) {
-        res.status(200).json(result[0]);
+        res.status(200).json(result[0].team[1]);
     }
     else {
         res.status(404).json({ message: `team not found`})
