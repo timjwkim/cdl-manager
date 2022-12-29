@@ -13,7 +13,7 @@ export const data = [
         "managerName": "bob",
         "teams": [
             {
-                "faze": [
+                "team": [
                     {
                         "players": [
                             {"name": "slasher", "overall": 99},
@@ -28,10 +28,11 @@ export const data = [
                     {
                         "record": [0, 0]
                     }
-                ]
+                ],
+                "teamName": "faze"
             },
             {
-                "breach": [
+                "team": [
                     {
                         "players": [
                             {"name": "methodz", "overall": 99},
@@ -46,10 +47,11 @@ export const data = [
                     {
                         "record": [0, 0]
                     }
-                ]
+                ],
+                "teamName": "breach"
             },
             {
-                "mutineers": [
+                "team": [
                     {
                         "players": [
                             {"name": "majormaniak", "overall": 99},
@@ -64,10 +66,11 @@ export const data = [
                     {
                         "record": [0, 0]
                     }
-                ]
+                ],
+                "teamName": "mutineers"
             },
             {
-                "ravens": [
+                "team": [
                     {
                         "players": [
                             {"name": "zer0", "overall": 99},
@@ -82,10 +85,11 @@ export const data = [
                     {
                         "record": [0, 0]
                     }
-                ]
+                ],
+                "teamName": "ravens"
             },
             {
-                "guerillas": [
+                "team": [
                     {
                         "players": [
                             {"name": "arcitys", "overall": 99},
@@ -100,10 +104,11 @@ export const data = [
                     {
                         "record": [0, 0]
                     }
-                ]
+                ],
+                "teamName": "guerillas"
             },
             {
-                "thieves": [
+                "team": [
                     {
                         "players": [
                             {"name": "octane", "overall": 99},
@@ -118,10 +123,11 @@ export const data = [
                     {
                         "record": [0, 0]
                     }
-                ]
+                ],
+                "teamName": "thieves"
             },
             {
-                "rokkr": [
+                "team": [
                     {
                         "players": [
                             {"name": "attach", "overall": 99},
@@ -136,10 +142,11 @@ export const data = [
                     {
                         "record": [0, 0]
                     }
-                ]
+                ],
+                "teamName": "rokkr"
             },
             {
-                "subliners": [
+                "team": [
                     {
                         "players": [
                             {"name": "skyz", "overall": 99},
@@ -154,10 +161,11 @@ export const data = [
                     {
                         "record": [0, 0]
                     }
-                ]
+                ],
+                "teamName": "subliners"
             },
             {
-                "optic": [
+                "team": [
                     {
                         "players": [
                             {"name": "dashy", "overall": 99},
@@ -172,10 +180,11 @@ export const data = [
                     {
                         "record": [0, 0]
                     }
-                ]
+                ],
+                "teamName": "optic"
             },
             {
-                "surge": [
+                "team": [
                     {
                         "players": [
                             {"name": "accuracy", "overall": 99},
@@ -190,10 +199,11 @@ export const data = [
                     {
                         "record": [0, 0]
                     }
-                ]
+                ],
+                "teamName": "surge"
             },
             {
-                "ultra": [
+                "team": [
                     {
                         "players": [
                             {"name": "insight", "overall": 99},
@@ -208,10 +218,11 @@ export const data = [
                     {
                         "record": [0, 0]
                     }
-                ]
+                ],
+                "teamName": "ultra"
             },
             {
-                "legion": [
+                "team": [
                     {
                         "players": [
                             {"name": "clayster", "overall": 99},
@@ -226,7 +237,8 @@ export const data = [
                     {
                         "record": [0, 0]
                     }
-                ]
+                ],
+                "teamName": "legion"
             },
         ],
         "schedule": [],
